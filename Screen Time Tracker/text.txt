@@ -1,0 +1,47 @@
+Country,hours,minutes
+South Africa,10h,4min
+Brazil,9h,32min
+Philippines,9h,14min
+Argentina,9h,1min
+Colombia,9h,1min
+Chile,8h,36min
+Mexico,8h,7min
+Malaysia,8h,6min
+Thailand,8h,6min
+Russia,7h,57min
+Indonesia,7h,42min
+Egypt,7h,41min
+Portugal,7h,37min
+UAE,7h,29min
+Turkey,7h,24min
+Saudi Arabia,7h,20min
+Taiwan,7h,14min
+Israel,7h,8min
+Romania,7h,3min
+USA,6h,59min
+Singapore,6h,59min
+Poland,6h,42min
+Canada,6h,35min
+hong Kong,6h,26min
+India,6h,23min
+Vietnam,6h,23min
+Czechia,6h,13min
+New Zealand,6h,12min
+Sweden,6h,2min
+Greece,6h,0min
+Ireland,5h,59min
+Italy,5h,55min
+Australia,5h,51min
+UK,5h,47min
+Norway,5h,46min
+Spain,5h,45min
+Switzerland,5h,38min
+Belgium,5h,27min
+Netherlands,5h,27min
+France,5h,26min
+China,5h,25min
+Austria,5h,22min
+South Korea,5h,21min
+Germany,5h,12min
+Denmark,4h,58min,
+Japan,3h,45min,
